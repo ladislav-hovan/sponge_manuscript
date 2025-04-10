@@ -2,4 +2,5 @@ bioframe
 gdown
 matplotlib
 matplotlib-venn
+netZooPy
 netzoopy-sponge
